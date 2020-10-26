@@ -1,0 +1,12 @@
+<?xml version ="1.0"?>
+<sophucs>
+    <sophuc>
+        <phanthuc>4</phanthuc>
+        <phanao>5</phanao>
+    </sophuc>
+    <sophuc>
+        <phanthuc>3</phanthuc>
+        <phanao>5</phanao>
+    </sophuc>
+
+</sophucs>
