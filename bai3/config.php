@@ -56,7 +56,8 @@
             $root->load('monhocs.xml');
             $xpath=new DOMXPath($root);
             foreach($xpath->query("/monhocs/monhoc[@id=$mamon]") as $node){
-                $node->parentNode->removeChild($node);
+                // $node->parentNode->removeChild($node);
+                $root->documentElement->removeChild($node);
             }
             $root->formatOutput=true;
             $root->save('monhocs.xml');
