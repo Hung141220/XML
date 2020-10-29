@@ -33,7 +33,8 @@
             //trỏ tới nút gốc
             $parenttag=$root->createElement('customer');
             $parenttag->setAttribute('id',$makh);
-            $nametag=$root->createElement('name',$tenkh);
+            $nametag=$root->createElement('name');
+            $nametag->nodeValue=$tenkh;//gan gia tri thong qua nodeValue
             $agetag=$root->createElement('age',$tuoi);
             $phonetag=$root->createElement('phone',$dienthoai);
 
