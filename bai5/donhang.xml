@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<qldh>
+	<donhang>
+		<makh>123</makh>
+		<mahang>H01</mahang>
+		<tenhang>Tulanh</tenhang>
+		<dongia>10000</dongia>
+	</donhang>
+	
+
+<donhang><makh>124</makh><mahang>H04</mahang><tenhang>Dieuhoa</tenhang><dongia>50000</dongia></donhang><donhang><makh>125</makh><mahang>H05</mahang><tenhang>Xe may</tenhang><dongia>50000</dongia></donhang></qldh>
