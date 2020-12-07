@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<qlp>
+    <p>
+        <maphong>P01</maphong>
+        <tenphong>Loai 1</tenphong>
+        <gia>100000</gia>
+    </p>
+<p><maphong>P02</maphong><tenphong>Loai 2</tenphong><gia>200000</gia></p><p><maphong>P03</maphong><tenphong>Vip</tenphong><gia>500000</gia></p></qlp>
